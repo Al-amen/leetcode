@@ -27,19 +27,22 @@ public:
     }
 
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        
-        
-        sort(nums2.begin(), nums2.end());
-        sort(nums1.begin(),nums1.end());
+
+        unordered_map<int, int> mp;
+        int n1 = nums1.size();
+        int n2 = nums2.size();
         vector<int> v;
-        int n = nums1.size();
-        for (int i = 0; i < n; i++) {
-           if(binarySearch(nums2, nums1[i])){
-               v.push_back(nums1[i]);
-               
-           }
+        for (int i = 0; i < n1; i++) {
+            mp[nums1[i]]++;
         }
-        return v;
+        for (int i = 0; i < n2; i++) {
+            if(mp[nums2[i]]>0){
+                v.push_back(nums2[i]);
+                mp[nums2[i]]--;
+            }
+        }
+
+            return v;
     }
 };
 // @lc code=end
