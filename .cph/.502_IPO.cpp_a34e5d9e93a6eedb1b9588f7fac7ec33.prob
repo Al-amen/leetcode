@@ -1,0 +1,1 @@
+{"name":"Local: 502_IPO","url":"g:\\leetcode\\502_IPO.cpp","tests":[{"id":1718418403623,"input":"2 0 3\n1 2 3\n0 1 1","output":""},{"id":1718418980383,"input":"3 0 3\n1 2 3\n0 1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\leetcode\\502_IPO.cpp","group":"local","local":true}
