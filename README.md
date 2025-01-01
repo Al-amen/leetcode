@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Al-amen/leetcode/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Al-amen/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Al-amen/leetcode/tree/master/0310-minimum-height-trees) |
+| [1036-rotting-oranges](https://github.com/Al-amen/leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Al-amen/leetcode/tree/master/0130-surrounded-regions) |
+| [1036-rotting-oranges](https://github.com/Al-amen/leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Al-amen/leetcode/tree/master/0130-surrounded-regions) |
+| [1036-rotting-oranges](https://github.com/Al-amen/leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
