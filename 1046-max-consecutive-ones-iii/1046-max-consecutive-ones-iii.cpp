@@ -8,21 +8,23 @@ public:
         while(r < n) {
             if(nums[r] == 0) {
                 zeros++;
-
             }
-            while(zeros > k) {
-                if(nums[l] == 0){
+            if(zeros > k) {
+                if(nums[l] == 0) {
                     zeros--;
-                  
                 }
-                l++;
                 
+                
+                l++;
+
             }
             if(zeros <= k) {
                 max_len = max(max_len,r-l+1);
             }
             
+            
             r++;
+           
         }
         return max_len;
         
