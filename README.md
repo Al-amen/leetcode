@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Al-amen/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Al-amen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Al-amen/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Al-amen/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Al-amen/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Al-amen/leetcode/tree/master/0070-climbing-stairs) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Al-amen/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
 |  |
 | ------- |
