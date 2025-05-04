@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Al-amen/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Al-amen/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Al-amen/leetcode/tree/master/0130-surrounded-regions) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Al-amen/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Al-amen/leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Al-amen/leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Al-amen/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Al-amen/leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Al-amen/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Al-amen/leetcode/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/Al-amen/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Al-amen/leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Al-amen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Al-amen/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Al-amen/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Al-amen/leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Al-amen/leetcode/tree/master/0130-surrounded-regions) |
 | [0967-minimum-falling-path-sum](https://github.com/Al-amen/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Al-amen/leetcode/tree/master/1036-rotting-oranges) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Al-amen/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
