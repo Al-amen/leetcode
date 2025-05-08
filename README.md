@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Al-amen/leetcode/tree/master/0801-is-graph-bipartite) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Al-amen/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Al-amen/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Al-amen/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Al-amen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Al-amen/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Al-amen/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Al-amen/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Al-amen/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Al-amen/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Al-amen/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Al-amen/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Al-amen/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Al-amen/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Al-amen/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Al-amen/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Al-amen/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Al-amen/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
