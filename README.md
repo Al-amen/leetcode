@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Al-amen/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Al-amen/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Al-amen/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Al-amen/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Al-amen/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Array
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Al-amen/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Al-amen/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Al-amen/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Al-amen/leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Al-amen/leetcode/tree/master/0371-sum-of-two-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Al-amen/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Al-amen/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Memoization
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Al-amen/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
