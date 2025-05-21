@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Al-amen/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Al-amen/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Al-amen/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Al-amen/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Al-amen/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Al-amen/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Al-amen/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Al-amen/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Al-amen/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0088-merge-sorted-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Al-amen/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Al-amen/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Al-amen/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Al-amen/leetcode/tree/master/0130-surrounded-regions) |
 | [0967-minimum-falling-path-sum](https://github.com/Al-amen/leetcode/tree/master/0967-minimum-falling-path-sum) |
