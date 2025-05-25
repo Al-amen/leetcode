@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Al-amen/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Al-amen/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Al-amen/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Al-amen/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Al-amen/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Al-amen/leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Al-amen/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Al-amen/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Al-amen/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Al-amen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Al-amen/leetcode/tree/master/0213-house-robber-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Al-amen/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Al-amen/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Al-amen/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Al-amen/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Al-amen/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Al-amen/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Al-amen/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Al-amen/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
