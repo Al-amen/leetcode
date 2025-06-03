@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Al-amen/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Al-amen/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Al-amen/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Al-amen/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Al-amen/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Al-amen/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Al-amen/leetcode/tree/master/0310-minimum-height-trees) |
 | [0801-is-graph-bipartite](https://github.com/Al-amen/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Al-amen/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Al-amen/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Al-amen/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Al-amen/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Al-amen/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Al-amen/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Al-amen/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Al-amen/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Al-amen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
