@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Al-amen/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Al-amen/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Al-amen/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Al-amen/leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Al-amen/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Al-amen/leetcode/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Al-amen/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Simulation
 |  |
