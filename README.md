@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Al-amen/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Al-amen/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Al-amen/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Al-amen/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Al-amen/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Al-amen/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Al-amen/leetcode/tree/master/1036-rotting-oranges) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Al-amen/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 ## Merge Sort
 |  |
 | ------- |
@@ -409,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Al-amen/leetcode/tree/master/2058-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
