@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Al-amen/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Al-amen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Al-amen/leetcode/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Al-amen/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Al-amen/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Al-amen/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
