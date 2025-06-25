@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Al-amen/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Al-amen/leetcode/tree/master/0127-word-ladder) |
+| [0344-reverse-string](https://github.com/Al-amen/leetcode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Al-amen/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Al-amen/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1170-shortest-common-supersequence](https://github.com/Al-amen/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Al-amen/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Al-amen/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Al-amen/leetcode/tree/master/0344-reverse-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Al-amen/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Al-amen/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
