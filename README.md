@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Al-amen/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Al-amen/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Al-amen/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Al-amen/leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Al-amen/leetcode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Al-amen/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Al-amen/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Al-amen/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Al-amen/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Al-amen/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Al-amen/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Al-amen/leetcode/tree/master/0344-reverse-string) |
