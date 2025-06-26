@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Al-amen/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Al-amen/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Al-amen/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Al-amen/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Al-amen/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Al-amen/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Al-amen/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Al-amen/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Al-amen/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Al-amen/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Al-amen/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Al-amen/leetcode/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/Al-amen/leetcode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Al-amen/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Design
