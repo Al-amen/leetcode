@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Al-amen/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Al-amen/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Al-amen/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Al-amen/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 ## Merge Sort
 |  |
