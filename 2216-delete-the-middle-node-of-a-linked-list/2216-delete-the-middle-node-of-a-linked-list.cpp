@@ -20,16 +20,18 @@ public:
     }
     ListNode* deleteMiddle(ListNode* head) {
         if(head->next == NULL )return NULL;
-        ListNode* temp = head;
-        int n = size(temp);
-        cout << n << endl;
-        int x = n/2;
-        x--;
         
-        while(x--) {
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = NULL;
+
+        while(fast != NULL && fast->next != NULL) {
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        temp->next = temp->next->next;
+        prev->next = slow->next;
+        delete slow;
         return head;
         
     }
