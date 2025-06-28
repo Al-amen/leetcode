@@ -21,21 +21,27 @@ public:
         return cnt;
     }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int sz = size(head);
-        int ind = sz-n;
-        cout << ind << endl;
-        if(ind == 0) {
-            head = head ->next;
-        }
-        else {
-            ListNode* temp = head;
-           for(int i = 1; i < ind; i++) {
-                temp = temp->next;
-           }
-           temp->next = temp->next->next;
-        }
+        
+    ListNode* dummy = new ListNode(0);  // Helps handle edge cases
+    dummy->next = head;
+    ListNode* first = dummy;
+    ListNode* second = dummy;
 
-        return head;
+    // Move first pointer n+1 steps ahead
+    for (int i = 0; i <= n; i++) {
+        first = first->next;
+    }
+
+    // Move both pointers until first reaches end
+    while (first != nullptr) {
+        first = first->next;
+        second = second->next;
+    }
+
+    // Remove the Nth node from end
+    second->next = second->next->next;
+
+    return dummy->next;  // In case head was removed
 
            
         
