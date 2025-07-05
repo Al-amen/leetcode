@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Al-amen/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Al-amen/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Al-amen/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Al-amen/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Al-amen/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Al-amen/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Al-amen/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/Al-amen/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1833-find-the-highest-altitude](https://github.com/Al-amen/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Al-amen/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Al-amen/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Al-amen/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Al-amen/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
