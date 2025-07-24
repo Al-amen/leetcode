@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Al-amen/leetcode/tree/master/0310-minimum-height-trees) |
 | [0801-is-graph-bipartite](https://github.com/Al-amen/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Al-amen/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Al-amen/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Al-amen/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Al-amen/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Al-amen/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Al-amen/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Al-amen/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Al-amen/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Al-amen/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Al-amen/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Al-amen/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Al-amen/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Al-amen/leetcode/tree/master/0110-balanced-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Al-amen/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Al-amen/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Al-amen/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Al-amen/leetcode/tree/master/0371-sum-of-two-integers) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Al-amen/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Al-amen/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Al-amen/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Al-amen/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
