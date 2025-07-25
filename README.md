@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Al-amen/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Al-amen/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Al-amen/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Al-amen/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Al-amen/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Al-amen/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Al-amen/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Union Find
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Al-amen/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Al-amen/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Al-amen/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Al-amen/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
