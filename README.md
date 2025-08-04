@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
+| [0940-fruit-into-baskets](https://github.com/Al-amen/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/Al-amen/leetcode/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Al-amen/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Al-amen/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Al-amen/leetcode/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Al-amen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Al-amen/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Al-amen/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
