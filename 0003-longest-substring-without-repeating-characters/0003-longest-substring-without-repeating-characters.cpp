@@ -1,20 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<int>has(256,-1);
-        int l = 0, r = 0;
-        int max_len = 0;
         int n = s.size();
+        unordered_map<char,int> mp; // faster than map
+        int j = 0, max_len = 0;
 
-        while(r < n) {
-            if(has[s[r]] != -1) {
-                if(has[s[r]] >= l) {
-                    l = has[s[r]] + 1;
+        for (int i = 0; i < n; i++) {
+            mp[s[i]]++;
+
+            while (mp[s[i]] > 1) { // duplicate found
+                mp[s[j]]--;
+                if (mp[s[j]] == 0) {
+                    mp.erase(s[j]);
                 }
+                j++;
             }
-            has[s[r]] = r;
-            max_len = max(max_len,r-l+1);
-            r++;
+            max_len = max(max_len, i - j + 1);
         }
 
         return max_len;
