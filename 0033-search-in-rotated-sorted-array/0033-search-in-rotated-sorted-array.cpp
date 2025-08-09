@@ -26,10 +26,10 @@ public:
                 // right part always sorted so compare here
 
                 if(target > nums[mid] and target <= nums[h]) {
-                    h = mid-1;
+                    l = mid+1;
                 }
                 else {
-                    l = mid + 1;
+                    h = mid - 1;
                 }
             }
 
