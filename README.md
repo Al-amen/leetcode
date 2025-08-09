@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Al-amen/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Al-amen/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Al-amen/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Al-amen/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Al-amen/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Al-amen/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Al-amen/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Al-amen/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Al-amen/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Al-amen/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Al-amen/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Al-amen/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Al-amen/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Al-amen/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Al-amen/leetcode/tree/master/0231-power-of-two) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Al-amen/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
 |  |
