@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Al-amen/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Al-amen/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Al-amen/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/Al-amen/leetcode/tree/master/0917-boats-to-save-people) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Al-amen/leetcode/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/Al-amen/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Al-amen/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Al-amen/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Al-amen/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Al-amen/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Trie
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Al-amen/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Al-amen/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Al-amen/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
