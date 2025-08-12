@@ -4,23 +4,27 @@ public:
         int n = height.size();
         stack<int> st; // stores indices
         int water = 0;
+        vector<int>preMax(n,0);
+        vector<int>suffMax(n,0);
 
-        for (int i = 0; i < n; i++) {
-            // While the current bar is taller than the bar at the top of the stack
-            while (!st.empty() && height[i] > height[st.top()]) {
-                int top = st.top();
-                st.pop();
+        preMax[0] = height[0];
+        suffMax[n-1] = height[n-1];
 
-                if (st.empty()) break; // no left boundary
+        for(int i = 1; i < n; i++) {
+            preMax[i] = max(preMax[i-1],height[i]);
+        }
 
-                int distance = i - st.top() - 1; // width between boundaries
-                int bounded_height = min(height[i], height[st.top()]) - height[top];
+        for(int i = n-2; i >= 0; i--) {
+            suffMax[i] = max(suffMax[i+1],height[i]);
+        }
 
-                water += distance * bounded_height;
-            }
-            st.push(i);
+        for(int i = 0; i < n; i++) {
+            
+            water += min(preMax[i] , suffMax[i]) - height[i];
         }
 
         return water;
+
+        
     }
 };
