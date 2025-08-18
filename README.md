@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Al-amen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Al-amen/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Al-amen/leetcode/tree/master/0679-24-game) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/Al-amen/leetcode/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Al-amen/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Al-amen/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Al-amen/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/Al-amen/leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Al-amen/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Math
 |  |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Al-amen/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Al-amen/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Al-amen/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0679-24-game](https://github.com/Al-amen/leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Al-amen/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Al-amen/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Al-amen/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
