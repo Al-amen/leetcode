@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/24-game">679. 24 Game</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>cards</code> of length <code>4</code>. You have four cards, each containing a number in the range <code>[1, 9]</code>. You should arrange the numbers on these cards in a mathematical expression using the operators <code>[&#39;+&#39;, &#39;-&#39;, &#39;*&#39;, &#39;/&#39;]</code> and the parentheses <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code> to get the value 24.</p>
+<h2><a href="https://leetcode.com/problems/24-game/?envType=daily-question&envId=2025-08-18">679. 24 Game</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>cards</code> of length <code>4</code>. You have four cards, each containing a number in the range <code>[1, 9]</code>. You should arrange the numbers on these cards in a mathematical expression using the operators <code>[&#39;+&#39;, &#39;-&#39;, &#39;*&#39;, &#39;/&#39;]</code> and the parentheses <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code> to get the value 24.</p>
 
 <p>You are restricted with the following rules:</p>
 
