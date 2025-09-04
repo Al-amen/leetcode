@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Al-amen/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Al-amen/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3830-find-closest-person](https://github.com/Al-amen/leetcode/tree/master/3830-find-closest-person) |
 ## Memoization
 |  |
 | ------- |
