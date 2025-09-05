@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Al-amen/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2529-range-product-queries-of-powers](https://github.com/Al-amen/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Al-amen/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Al-amen/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Al-amen/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Al-amen/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Heap (Priority Queue)
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Al-amen/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Al-amen/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Al-amen/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Al-amen/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Al-amen/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Al-amen/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Al-amen/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -721,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Al-amen/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Al-amen/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Al-amen/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
