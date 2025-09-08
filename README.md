@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Al-amen/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Al-amen/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Al-amen/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Al-amen/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Al-amen/leetcode/tree/master/0118-pascals-triangle) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Al-amen/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Al-amen/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Al-amen/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Al-amen/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Al-amen/leetcode/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Al-amen/leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Al-amen/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Al-amen/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Al-amen/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Al-amen/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Al-amen/leetcode/tree/master/0371-sum-of-two-integers) |
