@@ -1,22 +1,32 @@
 class Solution {
 public:
-    void getPermutaion(int ind, vector<int> & nums, vector<vector<int>> &ans) {
-        if(ind == nums.size()) {
-            ans.push_back({nums});
-            return;
+    void f(vector<int> &nums, vector<int> &temp, vector<bool> &visited, vector<vector<int>> & res) {
+        int n = nums.size();
+        if(temp.size() == n) {
+            res.push_back(temp);
+            
         }
 
-        for(int i = ind; i < nums.size(); i++) {
-            swap(nums[ind],nums[i]);
-            getPermutaion(ind+1,nums,ans);
-            swap(nums[ind],nums[i]);
+        for(int i = 0; i < n; i++) {
+            if(visited[i]==true){
+                continue;
+            }
+            visited[i] = true;
+            temp.push_back(nums[i]);
+            f(nums,temp, visited, res);
+            temp.pop_back();
+            visited[i] = false;
         }
+
+        return ;
+
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>>ans;
-        getPermutaion(0,nums,ans);
-    
-        return ans;
-        
+        int n = nums.size();
+        vector<int>temp;
+        vector<bool>visited(n,false);
+        vector<vector<int>>res;
+        f(nums,temp,visited,res);
+        return res;
     }
 };
