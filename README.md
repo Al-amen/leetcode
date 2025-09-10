@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Al-amen/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Al-amen/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Al-amen/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Al-amen/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Al-amen/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Al-amen/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Al-amen/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Al-amen/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Al-amen/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Al-amen/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Al-amen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Al-amen/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Al-amen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Al-amen/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Al-amen/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Al-amen/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Al-amen/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Al-amen/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Al-amen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Al-amen/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
