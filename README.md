@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Al-amen/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Al-amen/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Al-amen/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Al-amen/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Al-amen/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Al-amen/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Al-amen/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Al-amen/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Al-amen/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Al-amen/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Al-amen/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Al-amen/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Al-amen/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Al-amen/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Al-amen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Al-amen/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Al-amen/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Al-amen/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Al-amen/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Trie
 |  |
@@ -751,4 +754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Al-amen/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Al-amen/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
