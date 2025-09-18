@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Al-amen/leetcode/tree/master/2689-rearranging-fruits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Al-amen/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Al-amen/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/Al-amen/leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Al-amen/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Al-amen/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Al-amen/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Al-amen/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Al-amen/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Al-amen/leetcode/tree/master/3678-design-task-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Al-amen/leetcode/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Al-amen/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/Al-amen/leetcode/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Al-amen/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [3678-design-task-manager](https://github.com/Al-amen/leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Al-amen/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
 |  |
