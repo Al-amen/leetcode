@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Al-amen/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Al-amen/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Al-amen/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Al-amen/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Al-amen/leetcode/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Al-amen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Al-amen/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Al-amen/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Al-amen/leetcode/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Al-amen/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Al-amen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
