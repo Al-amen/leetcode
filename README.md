@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Al-amen/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Al-amen/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Al-amen/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Al-amen/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Al-amen/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Al-amen/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Al-amen/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Al-amen/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Al-amen/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Al-amen/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Al-amen/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Al-amen/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Al-amen/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Al-amen/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Al-amen/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Al-amen/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/Al-amen/leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Al-amen/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
