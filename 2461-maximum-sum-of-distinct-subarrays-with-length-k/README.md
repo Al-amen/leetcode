@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">2461. Maximum Sum of Distinct Subarrays With Length K</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>. Find the maximum subarray sum of all the subarrays of <code>nums</code> that meet the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k">2552. Maximum Sum of Distinct Subarrays With Length K</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>. Find the maximum subarray sum of all the subarrays of <code>nums</code> that meet the following conditions:</p>
 
 <ul>
 	<li>The length of the subarray is <code>k</code>, and</li>
