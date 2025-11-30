@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Al-amen/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Al-amen/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Al-amen/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2479-meeting-rooms-iii](https://github.com/Al-amen/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Al-amen/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Al-amen/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Al-amen/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Al-amen/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2479-meeting-rooms-iii](https://github.com/Al-amen/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/Al-amen/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Al-amen/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Al-amen/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
