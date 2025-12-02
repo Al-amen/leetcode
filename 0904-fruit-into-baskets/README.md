@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/fruit-into-baskets">904. Fruit Into Baskets</a></h2><h3>Medium</h3><hr><p>You are visiting a farm that has a single row of fruit trees arranged from left to right. The trees are represented by an integer array <code>fruits</code> where <code>fruits[i]</code> is the <strong>type</strong> of fruit the <code>i<sup>th</sup></code> tree produces.</p>
+<h2><a href="https://leetcode.com/problems/fruit-into-baskets">940. Fruit Into Baskets</a></h2><h3>Medium</h3><hr><p>You are visiting a farm that has a single row of fruit trees arranged from left to right. The trees are represented by an integer array <code>fruits</code> where <code>fruits[i]</code> is the <strong>type</strong> of fruit the <code>i<sup>th</sup></code> tree produces.</p>
 
 <p>You want to collect as much fruit as possible. However, the owner has some strict rules that you must follow:</p>
 
