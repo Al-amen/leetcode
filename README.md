@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Al-amen/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Al-amen/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Al-amen/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Al-amen/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Al-amen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Al-amen/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Al-amen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Al-amen/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Al-amen/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Al-amen/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Al-amen/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Al-amen/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Al-amen/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Al-amen/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2529-range-product-queries-of-powers](https://github.com/Al-amen/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Al-amen/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Al-amen/leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Al-amen/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Al-amen/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Al-amen/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Al-amen/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Al-amen/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Al-amen/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Al-amen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Al-amen/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Al-amen/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Al-amen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Al-amen/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Al-amen/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -577,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Al-amen/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Al-amen/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Al-amen/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Al-amen/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/Al-amen/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Al-amen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Al-amen/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
