@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Al-amen/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Al-amen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Al-amen/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Al-amen/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Al-amen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Al-amen/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Al-amen/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Al-amen/leetcode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Al-amen/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Al-amen/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Al-amen/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Al-amen/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Al-amen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Al-amen/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Al-amen/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Al-amen/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Al-amen/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Al-amen/leetcode/tree/master/0940-fruit-into-baskets) |
