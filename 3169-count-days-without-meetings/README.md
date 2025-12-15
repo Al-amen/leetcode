@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-days-without-meetings">3169. Count Days Without Meetings</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>days</code> representing the total number of days an employee is available for work (starting from day 1). You are also given a 2D array <code>meetings</code> of size <code>n</code> where, <code>meetings[i] = [start_i, end_i]</code> represents the starting and ending days of meeting <code>i</code> (inclusive).</p>
+<h2><a href="https://leetcode.com/problems/count-days-without-meetings">3430. Count Days Without Meetings</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>days</code> representing the total number of days an employee is available for work (starting from day 1). You are also given a 2D array <code>meetings</code> of size <code>n</code> where, <code>meetings[i] = [start_i, end_i]</code> represents the starting and ending days of meeting <code>i</code> (inclusive).</p>
 
 <p>Return the count of days when the employee is available for work but no meetings are scheduled.</p>
 
