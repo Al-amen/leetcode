@@ -5,23 +5,21 @@ class Solution:
         if not meetings:
             return days
 
-        # 1. Sort meetings by start day
         meetings.sort(key=lambda x: x[0])
 
-        # 2. Merge intervals
-        merged = []
-        merged.append(meetings[0])
+        meeting_days = 0
+        cur_start, cur_end = meetings[0]
 
         for i in range(1, len(meetings)):
-            if meetings[i][0] <= merged[-1][1]:
-                merged[-1][1] = max(merged[-1][1], meetings[i][1])
-            else:
-                merged.append(meetings[i])
+            start, end = meetings[i]
 
-        # 3. Count total meeting days
-        meeting_days = 0
-        for start, end in merged:
-            meeting_days += (end - start + 1)
+            if start <= cur_end:          # overlap
+                cur_end = max(cur_end, end)
+            else:                         # no overlap
+                meeting_days += (cur_end - cur_start + 1)
+                cur_start, cur_end = start, end
 
-        # 4. Free days
+        # add last interval
+        meeting_days += (cur_end - cur_start + 1)
+
         return days - meeting_days
