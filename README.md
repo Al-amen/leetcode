@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Al-amen/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Al-amen/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Al-amen/leetcode/tree/master/0679-24-game) |
+| [0731-my-calendar-ii](https://github.com/Al-amen/leetcode/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Al-amen/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/Al-amen/leetcode/tree/master/0917-boats-to-save-people) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Al-amen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Al-amen/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0731-my-calendar-ii](https://github.com/Al-amen/leetcode/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Al-amen/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Al-amen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Al-amen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Al-amen/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Al-amen/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0731-my-calendar-ii](https://github.com/Al-amen/leetcode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Al-amen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Al-amen/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Al-amen/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Al-amen/leetcode/tree/master/0155-min-stack) |
+| [0731-my-calendar-ii](https://github.com/Al-amen/leetcode/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/Al-amen/leetcode/tree/master/0816-design-hashset) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Al-amen/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/Al-amen/leetcode/tree/master/3678-design-task-manager) |
@@ -800,12 +804,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Al-amen/leetcode/tree/master/0731-my-calendar-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Al-amen/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Al-amen/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Al-amen/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0731-my-calendar-ii](https://github.com/Al-amen/leetcode/tree/master/0731-my-calendar-ii) |
 | [3678-design-task-manager](https://github.com/Al-amen/leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Al-amen/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Al-amen/leetcode/tree/master/3827-implement-router) |
